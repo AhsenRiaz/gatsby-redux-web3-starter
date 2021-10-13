@@ -3,6 +3,7 @@ module.exports = {
         siteUrl: `https://www.yourdomain.tld`,
     },
     plugins: [
-
+    `gatsby-plugin-emotion`,
+    `gatsby-plugin-styled-components`
     ]
 }
